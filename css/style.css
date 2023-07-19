@@ -1,0 +1,18 @@
+*{
+    background-color: rgba(0, 204, 255, 0.616);
+}
+.experiencia, .fortalezas, .tecnologia, .datos{
+    text-align: left;
+}
+.yo{
+    width: 150px;
+    border-radius: 75px;
+}
+.logo{
+    width: 130px;
+    border-radius: 75px;
+}
+a:link, a:visited{ 
+    color:#000;
+    text-decoration:none; 
+} 
